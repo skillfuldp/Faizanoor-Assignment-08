@@ -1,0 +1,126 @@
+/* UNODERED LIST */
+/* ul{
+    list-style-type: square;
+} */
+/* ODERED LIST */
+/* ol{
+    list-style-type: lower-roman;
+} */
+/* IMAGES FOR BULLETS */
+/* ul{
+    list-style-image: url(./images/icons8-arrow-20.png);
+} */
+/* LIST TYPE POSITION  */
+/* .illuminations{
+    list-style-position: outside;
+}
+.season{
+    list-style-position: inside;
+}  */
+/* LIST SHORTHAND */
+/* ul{
+    list-style: inside square;
+} */
+/* TABLE PROPERTIES */
+/* table{
+    width: 600px;
+   padding: 20px;
+    text-transform: capitalize;
+    border-top: 1px solid red;
+    border-bottom: 1px solid green;
+    } */
+
+    /* table, td, th{
+        border: 1px solid red;
+        border-collapse: collapse;
+        text-align: left;
+        
+    } */
+    /* table{
+        background-color: aqua;
+    } */
+    /* tr:hover{
+        background-color: beige;
+        cursor: pointer;
+    }
+    td{
+        padding: 10px;
+    } */
+    /* th{
+        background: black;
+        color: white;
+      
+    } */
+    /* .even{
+        background-color: black;
+        color: white;
+    } */
+    /* EMPTY CELLS */
+    /* td {
+        border: 1px solid #0088dd;
+        padding: 15px;}
+        table.one {
+        empty-cells: show;}S
+        table.two {
+        empty-cells: hide;} */
+        /* GAPES BETWEEN CELLS */
+        /* td {
+            background-color: #0088dd;
+            padding: 15px;
+            border: 2px solid #000000;}
+            table{
+                border-collapse: collapse;
+            } */
+            /* STYLING FORMS */
+             #github{
+                margin-top: 5px;
+            }
+            /* input{
+                font-size: xx-large;
+                color: blueviolet;
+                background-color: black;
+                color: white;
+            }  */
+            /* input{
+                border: 3px solid red;
+                border-radius: 10px;
+           }
+           input:hover{
+            background-color: lightblue;
+           }
+           input:focus{
+            border: 1px solid red;
+            outline: none;
+
+           } */
+           /* #email{
+            background-image: url(./images/letter.png);
+            background-size: contain;
+            background-repeat: no-repeat;
+            padding-left: 16px;
+           }
+           #github{
+            background-image: url(./images/github.png);
+            background-size: contain;
+            background-repeat: no-repeat;
+            padding-left: 16px;
+
+           } */
+        /* STYLING FEILDSET AND LEGEND */
+        /* fieldset {
+            width: 350px;
+            border: 1px solid #dcdcdc;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: right;}
+            legend {
+            background-color: #efefef;
+            border: 1px solid #dcdcdc;
+            border-radius: 10px;
+            padding: 10px 20px;
+            text-align: left;
+            text-transform: uppercase;} */
+            /* CURSER STYLE */
+            #submit-btn{
+                cursor: wait;
+            }
